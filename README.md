@@ -1,5 +1,5 @@
 # slider-template
-some useful slider templates
+🌟 some useful slider templates for team managerment.
 
 #### New Team KickOff Slider
 A KickOff Slider for new team.
