@@ -10,15 +10,19 @@ A KickOff Slider for new team.
 ## My Presentation：
 #### How to setup AWS Amplify in a Vue Project
 
-[<img width="603" alt="スクリーンショット 2021-10-21 22 59 59" src="https://user-images.githubusercontent.com/23165804/138293251-19c5ef49-621e-48d0-aeaf-bbfd4982a8c2.png">](https://www2.slideshare.net/yuxiang21/how-to-setup-aws-amplify-in-a-vue-project)
+[<img width="621" alt="スクリーンショット 2021-10-26 0 35 54" src="https://user-images.githubusercontent.com/23165804/138726352-18c2bc3b-e026-477f-ac99-fabfbfc87388.png">]
+(https://www2.slideshare.net/yuxiang21/how-to-setup-aws-amplify-in-a-vue-project)
 
 #### Introduction to three.js
 
-[<img width="640" alt="スクリーンショット 2021-10-21 23 00 27" src="https://user-images.githubusercontent.com/23165804/138293321-e317bb5d-d6d3-4fe0-aec9-48428ee59ade.png">](https://www2.slideshare.net/yuxiang21/introduction-to-threejs)
+[<img width="619" alt="スクリーンショット 2021-10-26 0 37 14" src="https://user-images.githubusercontent.com/23165804/138726505-f27dee1e-dfcc-471e-b29a-99ea9c2ab008.png">](https://www2.slideshare.net/yuxiang21/introduction-to-threejs)
 
 #### Flexboxを遊ぼう
-[<img width="793" alt="スクリーンショット 2021-10-26 0 31 49" src="https://user-images.githubusercontent.com/23165804/138725752-13b9f62e-e90c-4e54-93ce-6a5ef98de9af.png">](https://www.slideshare.net/yuxiang21/flexbox-250523752)
+[<img width="620" alt="スクリーンショット 2021-10-26 0 34 32" src="https://user-images.githubusercontent.com/23165804/138726148-538890ec-60bb-49ec-bdd7-766b6296f011.png">
+](https://www.slideshare.net/yuxiang21/flexbox-250523752)
 
+#### Learn Vue.js
+<img width="622" alt="スクリーンショット 2021-10-26 0 38 43" src="https://user-images.githubusercontent.com/23165804/138726815-011ed5fb-547a-4e70-b582-8ae5003a1a12.png">
 
 
 ***
