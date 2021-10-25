@@ -8,10 +8,10 @@ A KickOff Slider for new team.
 
 
 ## My Presentation：
+
 #### How to setup AWS Amplify in a Vue Project
 
-[<img width="621" alt="スクリーンショット 2021-10-26 0 35 54" src="https://user-images.githubusercontent.com/23165804/138726352-18c2bc3b-e026-477f-ac99-fabfbfc87388.png">]
-(https://www2.slideshare.net/yuxiang21/how-to-setup-aws-amplify-in-a-vue-project)
+[<img width="621" alt="スクリーンショット 2021-10-26 0 35 54" src="https://user-images.githubusercontent.com/23165804/138726352-18c2bc3b-e026-477f-ac99-fabfbfc87388.png">](https://www2.slideshare.net/yuxiang21/how-to-setup-aws-amplify-in-a-vue-project)
 
 #### Introduction to three.js
 
