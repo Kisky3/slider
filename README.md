@@ -8,6 +8,8 @@ A KickOff Slider for new team.
 
 
 ### 発表用：
+How to setup AWS Amplify in a Vue Project
+<br>
 [<img width="603" alt="スクリーンショット 2021-10-21 22 59 59" src="https://user-images.githubusercontent.com/23165804/138293251-19c5ef49-621e-48d0-aeaf-bbfd4982a8c2.png">](https://www2.slideshare.net/yuxiang21/how-to-setup-aws-amplify-in-a-vue-project)
 
 
